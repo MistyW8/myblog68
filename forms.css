@@ -1,0 +1,27 @@
+body{
+    font-family: arial;
+}
+.form-container{
+    padding: 20px;
+    background-color:lightgrey;
+}
+.input-container input{
+    display:flex;
+    flex-direction:row;
+    margin-bottom: 20px;
+}
+
+.input-container label{
+    width: 80%;
+    padding: 3px
+}
+
+.input.container label{
+    width: 20%;
+}
+.btn{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+}
